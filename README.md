@@ -13,6 +13,10 @@ Test API https://reqres.in/
     ```bash
     cd Playwright
     ```
+3. Install Playwright
+   ```bash
+    npm install playwright
+    ```
 
 ## Penggunaan
 
